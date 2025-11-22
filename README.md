@@ -4,6 +4,7 @@
 
 `npm install express`
 
+`npm install cheerio`
 
 *sau đó chạy*
 
